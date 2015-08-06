@@ -1,0 +1,15 @@
+#createPhrase {
+    height: 100px;
+    width: 100px;
+    background-color: #0086b3;
+    font-size: 24px
+}
+
+.container {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.phrase {
+    font-size: 48px;
+}

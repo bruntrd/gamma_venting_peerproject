@@ -1,0 +1,20 @@
+{
+  "ad1":
+  {
+    "name": "Boring"
+  },
+  "ad2":{
+    "name": "Lame"
+
+  },
+  "ad3":{
+    "name":"Stupid"
+  },
+  "ad4":{
+    "name":"Dumb"
+  },
+  "ad5": {
+    "name":"Horrendous"
+  }
+
+}
